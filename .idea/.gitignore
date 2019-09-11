@@ -1,3 +1,8 @@
 # Default ignored files
 /workspace.xml
+<<<<<<< HEAD
 /out/production/
+=======
+/out/ 
+/build/
+>>>>>>> a2308d1fd78c96ed4c1aad3f9fdcaf97debd7e80
