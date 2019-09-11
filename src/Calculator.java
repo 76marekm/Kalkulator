@@ -1,6 +1,6 @@
 class Application
 {
-    public static <calculator> void main(String[] args)
+    public static void main(String[] args)
     {
         Calculator calculator = new Calculator();
         int result = calculator.addAToB();
@@ -14,8 +14,8 @@ class Application
 
 public class Calculator {
 
-    int a = 10;
-    int b = 20;
+    private int a = 10;
+    private int b = 20;
 
     public int addAToB() {
         return a + b;
